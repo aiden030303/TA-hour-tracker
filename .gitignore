@@ -2,3 +2,4 @@
 __pycache__/
 *.pyc
 ta_hours_report.pdf
+.DS_Store
